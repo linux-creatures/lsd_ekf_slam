@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/include/openfabmap.hpp
+vector
+-
+list
+-
+map
+-
+set
+-
+valarray
+-
+opencv2/opencv.hpp
+-
+
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/src/BOWMSCTrainer.cpp
+../include/openfabmap.hpp
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/include/openfabmap.hpp
+
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/src/ChowLiuTree.cpp
+../include/openfabmap.hpp
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/include/openfabmap.hpp
+
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/src/FabMap.cpp
+../include/openfabmap.hpp
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/include/openfabmap.hpp
+

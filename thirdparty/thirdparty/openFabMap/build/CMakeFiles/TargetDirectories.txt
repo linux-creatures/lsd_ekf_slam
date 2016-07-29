@@ -1,0 +1,1 @@
+/home/kiran/catkin_ws/src/ardrone_navmap/thirdparty/thirdparty/openFabMap/build/CMakeFiles/openFABMAP.dir
